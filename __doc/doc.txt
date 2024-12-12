@@ -1,0 +1,23 @@
+o  Project next steps -----------------------------------------------------+
+|                                                                          |
+|  1: cd lucia-auth                                                        |
+|  2: git init && git add -A && git commit -m "Initial commit" (optional)  |
+|  3: pnpm dev --open                                                      |
+|                                                                          |
+|  To close the dev server, hit Ctrl-C                                     |
+|                                                                          |
+|  Stuck? Visit us at https://svelte.dev/chat                              |
+|                                                                          |
++--------------------------------------------------------------------------+
+|
+o  Add-on next steps --------------------------------------------------+
+|                                                                      |
+|  lucia:                                                              |
+|  - Run pnpm run db:push to update your database schema               |
+|  - Visit /demo/lucia route to view the demo                          |
+|                                                                      |
+|  drizzle:                                                            |
+|  - You will need to set DATABASE_URL in your production environment  |
+|  - Run pnpm run db:push to update your database schema               |
+|                                                                      |
++----------------------------------------------------------------------+
